@@ -1,0 +1,3 @@
+[submodule "file-api"]
+	path = file-api
+	url = git@github.com:TMDAD-Chat/file-api.git
